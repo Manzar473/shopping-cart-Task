@@ -1,0 +1,18 @@
+.HeaderConatiner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(12, 180, 180);
+    color: white;
+    text-transform: uppercase;
+    font-style: italic;
+    padding: 0 150px;
+}
+h1{
+    font-size: 28px;
+}
+h5{
+    font-size: 35px;
+    padding: 0;
+    margin: 0;
+}
